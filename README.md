@@ -1,4 +1,4 @@
-# flowy
+# flowy-standalone
 
 Open Source Workflowy implementation.
 
@@ -23,6 +23,7 @@ The button icons in the shortcuts bar for phone displays are taken from [the arr
 ## Hacking
 
 ```
+yarn add node-sass
 yarn install
 ```
 
