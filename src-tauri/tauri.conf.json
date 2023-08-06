@@ -1,7 +1,7 @@
 {
   "build": {
     "beforeBuildCommand": "yarn install",
-    "beforeDevCommand": "yarn watch && yarn start",
+    "beforeDevCommand": "yarn watch & yarn start",
     "devPath": "http://localhost:3000",
     "distDir": "../../lib"
   },

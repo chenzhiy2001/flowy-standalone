@@ -24,17 +24,8 @@ The button icons in the shortcuts bar for phone displays are taken from [the arr
 
 ```
 yarn add node-sass
+yarn add @tauri-apps/api
 yarn install
+cargo tauri dev
 ```
-
-```
-yarn watch
-```
-
-will start watching files for updates.
-
-```
-yarn start
-```
-
-will start a local server on 3000.
+Then wait for the window popped out.
