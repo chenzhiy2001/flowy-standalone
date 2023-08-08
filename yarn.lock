@@ -55,6 +55,11 @@
     mkdirp "^1.0.4"
     rimraf "^3.0.2"
 
+"@tauri-apps/api@1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@tauri-apps/api/-/api-1.4.0.tgz#b4013ca3d17b853f7df29fe14079ebb4d52dbffa"
+  integrity sha512-Jd6HPoTM1PZSFIzq7FB8VmMu3qSSyo/3lSwLpoapW+lQ41CL5Dow2KryLg+gyazA/58DRWI9vu/XpEeHK4uMdw==
+
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
@@ -3287,6 +3292,12 @@ tar@^6.0.2, tar@^6.1.11, tar@^6.1.2:
     minizlib "^2.1.1"
     mkdirp "^1.0.3"
     yallist "^4.0.0"
+
+"tauri-plugin-sql-api@https://github.com/tauri-apps/tauri-plugin-sql#v1":
+  version "0.0.0"
+  resolved "https://github.com/tauri-apps/tauri-plugin-sql#b8fd19dac907cc8c3d78681cd4803a326b8b861e"
+  dependencies:
+    "@tauri-apps/api" "1.4.0"
 
 term-size@^1.2.0:
   version "1.2.0"

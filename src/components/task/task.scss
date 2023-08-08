@@ -81,7 +81,7 @@ x-task {
             color: #45aaf2;
 
             &:before {
-                content: "●";
+                content: "→"; //content: "●" what... it's just a unicode.....
                 font-size: 0.75rem;
                 margin-top: 0.05rem;
             }

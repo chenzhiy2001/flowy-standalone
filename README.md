@@ -25,6 +25,8 @@ The button icons in the shortcuts bar for phone displays are taken from [the arr
 ```
 yarn add node-sass
 yarn add @tauri-apps/api
+yarn add https://github.com/tauri-apps/tauri-plugin-sql#v1
+
 yarn install
 cargo tauri dev
 ```

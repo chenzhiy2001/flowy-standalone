@@ -11,3 +11,5 @@
 - No checkbox in all lines
 
 - cargo tauri dev command needs extra return
+
+- use `tauri_plugin_sql`
